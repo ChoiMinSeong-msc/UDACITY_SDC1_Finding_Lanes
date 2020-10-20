@@ -66,8 +66,10 @@ Light change and View change are critical.
 
 ### 3. Suggest possible improvements to your pipeline
 
-
 We need to suggest more robust algorithm.
-Maybe using deep learning with lot's of data set would be the one of the solution.
+Also more times to tune parameter for it.
+We can also use low-pass or high-pass filters for reducing the noise.
+Maybe using deep learning method with lot's of data set would be the one of the solution.
+The light change problem could be solved by changing color space RGB(Red Green Blue) to HSV(Hue Saturation Value).
 
 
